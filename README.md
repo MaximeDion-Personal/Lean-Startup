@@ -298,6 +298,6 @@ Growth rate = natural growth rate – churn rate.
 
 ---
 ## Extra Ref
-https://www.kimhartman.se/wp-content/uploads/2013/10/the-lean-startup-summary.pdf
-https://alumni.lincolncollege.ac.uk/files/2016/11/The-Lean-Startup-by-Eric-Ries-Book-Summary.pdf
-https://www.youtube.com/watch?v=iNKe-TRgeyg (best long form summary)
+- https://www.kimhartman.se/wp-content/uploads/2013/10/the-lean-startup-summary.pdf
+- https://alumni.lincolncollege.ac.uk/files/2016/11/The-Lean-Startup-by-Eric-Ries-Book-Summary.pdf
+- https://www.youtube.com/watch?v=iNKe-TRgeyg (best long form summary)
